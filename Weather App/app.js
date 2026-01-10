@@ -4,7 +4,7 @@ const checkBtn = document.querySelector('#checkbtn')
 const locat = document.querySelector('.currentLocation')
 
 const cityName = "lahore"
-const keyApi = "7475cc09ca100fc6a09baa1cfccf8ed4"
+const keyApi = ""
  checkBtn.addEventListener('click', function(){
       weatherApi();
 
